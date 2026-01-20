@@ -1,0 +1,29 @@
+name: mbb-cc66r-prj
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab>=4
+  - ipykernel
+  - numpy>=1.26
+  - pandas>=2.0
+  - matplotlib>=3.8
+  - scikit-learn>=1.4
+  - nltk>=3.8
+  - gensim>=4.3
+  - tqdm>=4.66
+  - pip:
+      - torch==2.3.0
+      - torchtext==0.18.0
+      - transformers>=4.47
+      - datasets>=2.19
+      - evaluate>=0.4
+      - accelerate>=0.33
+      - sentencepiece>=0.2
+      - scipy==1.11.4
+      - scikit-plot
+      - wordcloud>=1.9
+      - ipywidgets
+      - safetensors>=0.4
