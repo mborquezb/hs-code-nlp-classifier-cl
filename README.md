@@ -4,9 +4,13 @@ NLP and ML experiments for HS code classification in Chile, including data explo
 
 ## Autores
 
-Manuel Bórquez Basáez
+José Sanz
+Guillermo Barriga
+Guillermo Pinto
+Manuel Bórquez
 
 https://github.com/mborquezb/
+https://github.com/guillermobp/harmonia
 
 ## Arquitectura
 
