@@ -1,7 +1,9 @@
 # Project files to ignore
 data/raw/*
 outputs/parquets/*
-outputs/models/*
+d9/*
+models/bert-multiclass/onnx/*
+models/svm-multiclass/onnx/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
