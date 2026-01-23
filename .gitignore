@@ -4,6 +4,8 @@ outputs/parquets/*
 d9/*
 models/bert-multiclass/onnx/*
 models/svm-multiclass/onnx/*
+models/bert-multiclass/backup/*
+models/svm-multiclass/backup/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
